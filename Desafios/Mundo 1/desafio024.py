@@ -1,0 +1,5 @@
+cidade = input('Digite o nome da sua cidade: ')
+divide = cidade.split()
+print('Se sua cidade começa com Santo, a palavra a aparecer será True')
+print('Se sua cidade não começar com Santo, a palavra a aparecer será False')
+print('Resultado:', 'Santo' in divide[0])

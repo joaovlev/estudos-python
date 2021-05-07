@@ -1,0 +1,5 @@
+print('Olá, Bem vindo a Loja!')
+print('No momento que você está acessando, estamos com uma liquidação de 5% de desconto em todos os produtos!')
+produto = float(input('Qual o valor do seu produto ? '))
+desconto = produto-(produto*0.05)
+print(f'O valor do seu produto com 5% de desconto é R${desconto}')
