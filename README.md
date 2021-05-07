@@ -20,6 +20,10 @@ Playlist Python: https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71ve
 
 ​	Nesta pasta existe um projeto a parte do curso, onde eu crio um sistema automático de provas, onde o usuário seleciona uma prova para fazer (matemática, física, estatística) e no final, diz se o usuário foi aprovado ou não de acordo com seus acertos em cada questão utilizando os fundamentos estudados no curso.
 
+## Projeto-Interface
+
+​	Nesta pasta contém um mini projeto no qual eu utilizo uma biblioteca no Python chamada PySimpleGUI, onde é possível criar uma interface gráfica para os dados, facilitando assim a visualização e a interação das pessoas com o script.
+
 # Conteúdo do curso
 
 ​	O curso é bem completo e abrange grande parte das funcionalidades do Python, desde o nível básico até um pouco mais avançado.
